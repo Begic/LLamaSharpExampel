@@ -1,0 +1,6 @@
+@LLamaSharpExampel.API_HostAddress = http://localhost:5098
+
+GET {{LLamaSharpExampel.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
